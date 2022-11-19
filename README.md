@@ -28,7 +28,7 @@ I am an investment and cryptocurrency enthusiast.
 <a href="https://www.facebook.com/alfredonbrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alfredobrade" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alfredobrade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfredobrade" height="30" width="40" /></a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
@@ -38,12 +38,12 @@ I am an investment and cryptocurrency enthusiast.
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 </p>
-
+-->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredobrade&show_icons=true&locale=en&layout=compact" alt="alfredobrade" />
 </p>
 <!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfredobrade&show_icons=true&locale=en" alt="alfredobrade" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfredobrade&show_icons=true&locale=en" alt="alfredobrade" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfredobrade&" alt="alfredobrade" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfredobrade&" alt="alfredobrade" /></p>
 -->
