@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm studing for a Bachelor's Degree in Information Systems at “Universidad Nacional del Nordeste” (Argentina).
-I'm a fullstack web developer, but my specialty is in backend with JAVA.
+I'm a fullstack web developer, but my specialty is in backend with C# .NET.
 I'm very interested in database management and architecture.
 I have experience working with Microsoft Excel and doing data analysis, and the desire to go further was what pushed me into the world of develop.
 I always had a lot of ease in relating to each other and those bonds help me grow everyday.
