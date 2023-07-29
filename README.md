@@ -21,6 +21,9 @@ I'm very interested in database management and architecture.
 I have experience working with Microsoft Excel and doing data analysis, and the desire to go further was what pushed me into the world of develop.
 I always had a lot of ease in relating to each other and those bonds help me grow everyday.
 I am an investment and cryptocurrency enthusiast.
+https://beneficiosjl.netlify.app 
+https://www.consumapp.somee.com 
+https://www.yakapos.somee.com/ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
