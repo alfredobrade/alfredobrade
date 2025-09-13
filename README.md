@@ -22,11 +22,11 @@ I have experience working with Microsoft Excel and doing data analysis, and the 
 I always had a lot of ease in relating to each other and those bonds help me grow everyday.
 I am an investment and cryptocurrency enthusiast.
 <br>
-https://beneficiosjl.netlify.app 
+
 <br>
-https://www.consumapp.somee.com 
+
 <br>
-https://www.yakapos.somee.com/ 
+www.inmobapp.net 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
