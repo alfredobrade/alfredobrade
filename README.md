@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm studing for a Bachelor's Degree in Information Systems at “Universidad Nacional del Nordeste” (Argentina).
-I'm a fullstack web developer, but my specialty is in backend with C# .NET.
-I'm very interested in database management and architecture.
-I have experience working with Microsoft Excel and doing data analysis, and the desire to go further was what pushed me into the world of develop.
-I always had a lot of ease in relating to each other and those bonds help me grow everyday.
-I am an investment and cryptocurrency enthusiast.
+I’m a Full‑Stack .NET Developer based in Lisbon, Portugal, with strong experience in the Finance & Banking sector. My main focus is backend development with C# .NET and SQL Server, complemented by frontend experience in React and Vue.js. I’m passionate about clean architecture, scalable systems, and building reliable software for high‑demand environments.
+I started my journey studying Information Systems at UNNE (Argentina), and since then I’ve worked across SaaS products, banking platforms, and enterprise applications. I’m constantly learning, improving, and exploring new technologies.
 <br>
 
 <br>
-
+<!--
 <br>
 www.inmobapp.net 
 
@@ -34,7 +30,7 @@ www.inmobapp.net
 <a href="https://www.facebook.com/alfredonbrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alfredobrade" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alfredobrade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfredobrade" height="30" width="40" /></a>
 </p>
-<!--
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
